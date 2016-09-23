@@ -1,0 +1,1054 @@
+msgid ""
+msgstr ""
+"Content-Type: text/plain; charset=utf-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+
+#. Text in function
+#: verbo/cfg/admin/settings/general.php:1
+msgid "Add custom css"
+msgstr ""
+
+#. Text in function
+#: verbo/cfg/static.php:1
+#: verbo/cfg/admin/resources/boxes.php:1
+#: verbo/cfg/admin/settings/general.php:1
+msgid "Additional Sidebar"
+msgstr ""
+
+#. Text in function
+#: verbo/cfg/static.php:1
+msgid "Additional Sidebar - is used for additional cases."
+msgstr ""
+
+#. Text in function
+#: verbo/fw/mythemes.class.php:1
+msgid "Additional custom sidebar"
+msgstr ""
+
+#. Text in echo
+#: verbo/category.php:23
+#: verbo/search.php:23
+#: verbo/tag.php:23
+#: verbo/archive.php:63
+msgid "Article"
+msgstr ""
+
+#. Text in function
+#: verbo/fw/mythemes_layout.class.php:1
+msgid "Article Categories"
+msgstr ""
+
+#. Text in function
+#: verbo/fw/mythemes_layout.class.php:1
+msgid "Article Tags"
+msgstr ""
+
+#. Text in echo
+#: verbo/category.php:23
+#: verbo/search.php:23
+#: verbo/tag.php:23
+#: verbo/archive.php:63
+msgid "Articles"
+msgstr ""
+
+#. Text in function
+#: verbo/author.php:11
+msgid "Author"
+msgstr ""
+
+#. Text in function
+#: verbo/cfg/admin/settings/general.php:1
+msgid "Behance URL profile"
+msgstr ""
+
+#. Text in function
+#: verbo/cfg/admin/default.php:1
+msgid "Blog"
+msgstr ""
+
+#. Text in function
+#: verbo/cfg/admin/settings/general.php:1
+msgid "Blog Title"
+msgstr ""
+
+#. Text in function
+#: verbo/archive.php:9
+msgid "Blog archives"
+msgstr ""
+
+#. Text in function
+#: verbo/cfg/admin/settings/general.php:1
+msgid "Button shadow Opacity ( % )"
+msgstr ""
+
+#. Text in function
+#: verbo/cfg/admin/settings/general.php:1
+msgid "By default this is a dark semi transparent foil over background image."
+msgstr ""
+
+#. Text in function
+#: verbo/fw/mythemes_layout.class.php:1
+#: verbo/cfg/templates/bottom-meta.php:8
+msgid "Categories"
+msgstr ""
+
+#. Text in function
+#: verbo/fw/admin/ahtml.class.php:1
+msgid "Choose File"
+msgstr ""
+
+#. Text in function
+#: verbo/fw/mythemes_layout.class.php:1
+#: verbo/fw/plg/my_widgets/my_wdg_meta.php:1
+#: verbo/cfg/templates/meta.php:25
+#: verbo/comments.php:1
+msgid "Comment"
+msgstr ""
+
+#. Text in function
+#: verbo/fw/mythemes_layout.class.php:1
+#: verbo/fw/plg/my_widgets/my_wdg_meta.php:1
+#: verbo/cfg/templates/meta.php:25
+#: verbo/comments.php:1
+msgid "Comments"
+msgstr ""
+
+#. Text in function
+#: verbo/cfg/static.php:1
+msgid "Content for first footer Sidebar"
+msgstr ""
+
+#. Text in function
+#: verbo/cfg/static.php:1
+msgid "Content for left front page header Sidebar"
+msgstr ""
+
+#. Text in function
+#: verbo/cfg/static.php:1
+msgid "Content for middle front page header Sidebar"
+msgstr ""
+
+#. Text in function
+#: verbo/cfg/static.php:1
+msgid "Content for right front page header Sidebar"
+msgstr ""
+
+#. Text in function
+#: verbo/cfg/static.php:1
+msgid "Content for second footer Sidebar"
+msgstr ""
+
+#. Text in function
+#: verbo/cfg/static.php:1
+msgid "Content for third footer Sidebar"
+msgstr ""
+
+#. Text in function
+#: verbo/archive.php:9
+msgid "Daily archives"
+msgstr ""
+
+#. Text in function
+#: verbo/cfg/admin/settings/general.php:1
+msgid "Default layout"
+msgstr ""
+
+#. Text in function
+#: verbo/cfg/admin/settings/general.php:1
+msgid "Default sidebar"
+msgstr ""
+
+#. Text in function
+#: verbo/fw/plg/my_widgets/my_wdg_website_description.php:1
+#: verbo/cfg/admin/settings/general.php:1
+msgid "Description"
+msgstr ""
+
+#. Text in function
+#: verbo/fw/admin/ahtml.class.php:1
+msgid "Disable"
+msgstr ""
+
+#. Text in function
+#: verbo/cfg/admin/default.php:1
+msgid "Download"
+msgstr ""
+
+#. Text in function
+#: verbo/cfg/admin/default.php:1
+msgid "Download free WordPress theme Verbo"
+msgstr ""
+
+#. Text in function
+#: verbo/cfg/admin/settings/general.php:1
+msgid "Dribbble URL profile"
+msgstr ""
+
+#. Text in function
+#: verbo/fw/admin/ahtml.class.php:1
+msgid "Drop Settings"
+msgstr ""
+
+#. Text in function
+#: verbo/fw/admin/ahtml.class.php:1
+msgid "Drop item"
+msgstr ""
+
+#. Text in function
+#: verbo/cfg/admin/settings/general.php:1
+msgid "Dropbox URL profile"
+msgstr ""
+
+#. Text in echo
+#: verbo/fw/plg/my_widgets/my_wdg_newsletter.php:39
+msgid "E-mail"
+msgstr ""
+
+#. Text in function
+#: verbo/comments.php:1
+msgid "E-mail ( required )"
+msgstr ""
+
+#. Text in function
+#: verbo/fw/mythemes_layout.class.php:1
+#: verbo/fw/plg/my_widgets/my_wdg_meta.php:1
+msgid "Edit"
+msgstr ""
+
+#. Text in function
+#: verbo/fw/admin/ahtml.class.php:1
+msgid "Enable"
+msgstr ""
+
+#. Text in echo
+#: verbo/404.php:13
+msgid "Error 404"
+msgstr ""
+
+#. Text in function
+#: verbo/cfg/admin/settings/general.php:1
+msgid "Error, please select \"ico\" type media file"
+msgstr ""
+
+#. Text in function
+#: verbo/cfg/admin/settings/general.php:1
+msgid "Evernote URL profile"
+msgstr ""
+
+#. Text in function
+#: verbo/cfg/admin/settings/general.php:1
+msgid "Exclude single post and single page. Header will not be displayed on single posts and single pages"
+msgstr ""
+
+#. Text in function
+#: verbo/cfg/admin/settings/general.php:1
+msgid "Facebook URL profile"
+msgstr ""
+
+#. Text in function
+#: verbo/cfg/admin/settings/general.php:1
+msgid "First Button"
+msgstr ""
+
+#. Text in function
+#: verbo/cfg/admin/settings/general.php:1
+msgid "First Color"
+msgstr ""
+
+#. Text in function
+#: verbo/cfg/admin/settings/general.php:1
+msgid "First button URL"
+msgstr ""
+
+#. Text in function
+#: verbo/cfg/admin/settings/general.php:1
+msgid "First button description"
+msgstr ""
+
+#. Text in function
+#: verbo/cfg/admin/settings/general.php:1
+msgid "First button label"
+msgstr ""
+
+#. Text in function
+#: verbo/cfg/admin/settings/general.php:1
+msgid "Flattr URL profile"
+msgstr ""
+
+#. Text in function
+#: verbo/cfg/admin/settings/general.php:1
+msgid "Flickr URL profile"
+msgstr ""
+
+#. Text in function
+#: verbo/cfg/static.php:1
+msgid "Footer - First Sidebar"
+msgstr ""
+
+#. Text in function
+#: verbo/cfg/static.php:1
+msgid "Footer - Second Sidebar"
+msgstr ""
+
+#. Text in function
+#: verbo/cfg/static.php:1
+msgid "Footer - Third Sidebar"
+msgstr ""
+
+#. Text in function
+#: verbo/cfg/admin/settings/general.php:1
+msgid "Front Page Layout"
+msgstr ""
+
+#. Text in function
+#: verbo/cfg/static.php:1
+#: verbo/cfg/admin/resources/boxes.php:1
+#: verbo/cfg/admin/settings/general.php:1
+msgid "Front Page Sidebar"
+msgstr ""
+
+#. Text in function
+#: verbo/cfg/static.php:1
+msgid "Front Page Sidebar - is used by default for Front Page."
+msgstr ""
+
+#. Text in function
+#: verbo/cfg/admin/settings/general.php:1
+msgid "Front page layout"
+msgstr ""
+
+#. Text in function
+#: verbo/cfg/admin/settings/general.php:1
+msgid "Front page sidebar"
+msgstr ""
+
+#. Text in function
+#: verbo/cfg/admin/pages.php:1
+msgid "General"
+msgstr ""
+
+#. Text in function
+#: verbo/cfg/admin/settings/general.php:1
+msgid "Github URL profile"
+msgstr ""
+
+#. Text in function
+#: verbo/fw/plg/my_widgets/my_wdg_newsletter.php:45
+msgid "Google FeedBurner ID ( use: A-z, a-z, 0-9, _ and - )"
+msgstr ""
+
+#. Text in function
+#: verbo/fw/plg/my_widgets/my_wdg_newsletter.php:1
+msgid "Google FeedBurner Newsletter"
+msgstr ""
+
+#. Text in function
+#: verbo/cfg/admin/settings/general.php:1
+msgid "Google plus URL profile"
+msgstr ""
+
+#. Text in function
+#: verbo/cfg/admin/settings/general.php:1
+msgid "Header"
+msgstr ""
+
+#. Text in function
+#: verbo/cfg/static.php:1
+msgid "Header - First Front Page Sidebar"
+msgstr ""
+
+#. Text in function
+#: verbo/cfg/static.php:1
+msgid "Header - Second Front Page Sidebar"
+msgstr ""
+
+#. Text in function
+#: verbo/cfg/static.php:1
+msgid "Header - Third Front Page Sidebar"
+msgstr ""
+
+#. Text in function
+#: verbo/cfg/admin/settings/general.php:1
+msgid "Header Height ( in pixels )"
+msgstr ""
+
+#. Text in function
+#: verbo/cfg/admin/settings/general.php:1
+msgid "Header description"
+msgstr ""
+
+#. Text in function
+#: verbo/cfg/static.php:1
+msgid "Header menu"
+msgstr ""
+
+#. Text in function
+#: verbo/cfg/admin/settings/general.php:1
+msgid "Header title"
+msgstr ""
+
+#. Text in function
+#: verbo/cfg/admin/settings/general.php:1
+msgid "Hide HTML suggestions after Comments form"
+msgstr ""
+
+#. Text in echo
+#: verbo/category.php:14
+#: verbo/page.php:17
+#: verbo/search.php:14
+#: verbo/404.php:12
+#: verbo/tag.php:14
+#: verbo/index.php:12
+#: verbo/author.php:14
+#: verbo/archive.php:52
+msgid "Home"
+msgstr ""
+
+#. Text in function
+#: verbo/cfg/admin/settings/general.php:1
+msgid "If not is set custom layout, will be used default layout."
+msgstr ""
+
+#. Text in function
+#: verbo/cfg/admin/settings/general.php:1
+msgid "If not is set single post layout, will be used default layout."
+msgstr ""
+
+#. Text in function
+#: verbo/cfg/admin/settings/general.php:1
+msgid "Instagram URL profile"
+msgstr ""
+
+#. Text in function
+#: verbo/cfg/admin/settings/general.php:1
+msgid "Lastfm URL profile"
+msgstr ""
+
+#. Text in function
+#: verbo/cfg/admin/settings/general.php:1
+msgid "Layout"
+msgstr ""
+
+#. Text in function
+#: verbo/comments.php:1
+msgid "Leave a reply"
+msgstr ""
+
+#. Text in function
+#: verbo/cfg/admin/settings/general.php:1
+msgid "Linkedin URL profile"
+msgstr ""
+
+#. Text in function
+#: verbo/comments.php:1
+msgid "Log out of this account"
+msgstr ""
+
+#. Text in function
+#: verbo/comments.php:1
+msgid "Log out?"
+msgstr ""
+
+#. Text in function
+#: verbo/comments.php:1
+msgid "Logged in as"
+msgstr ""
+
+#. Text in function
+#: verbo/cfg/admin/settings/general.php:1
+msgid "Logo left margin ( px )"
+msgstr ""
+
+#. Text in function
+#: verbo/cfg/admin/settings/general.php:1
+msgid "Logo top margin ( px )"
+msgstr ""
+
+#. Text in function
+#: verbo/cfg/static.php:1
+#: verbo/cfg/admin/resources/boxes.php:1
+#: verbo/cfg/admin/settings/general.php:1
+msgid "Main Sidebar"
+msgstr ""
+
+#. Text in function
+#: verbo/cfg/static.php:1
+msgid "Main Sidebar - is used by default for next templates: 404, Archive, Author, Category, Search and Tag."
+msgstr ""
+
+#. Text in function
+#: verbo/cfg/admin/settings/general.php:1
+msgid "Mask Opacity ( % )"
+msgstr ""
+
+#. Text in function
+#: verbo/cfg/admin/settings/general.php:1
+msgid "Mask color"
+msgstr ""
+
+#. Text in function
+#: verbo/fw/plg/my_widgets/my_wdg_meta.php:1
+msgid "Meta Details"
+msgstr ""
+
+#. Text in function
+#: verbo/cfg/admin/settings/general.php:1
+msgid "Mixi URL profile"
+msgstr ""
+
+#. Text in function
+#: verbo/archive.php:9
+msgid "Monthly archives"
+msgstr ""
+
+#. Text in function
+#: verbo/fw/plg/my_widgets/my_wdg_newsletter.php:1
+#: verbo/fw/mythemes_layout.class.php:1
+msgid "Newsletter"
+msgstr ""
+
+#. Text in function
+#: verbo/cfg/templates/pagination.php:1
+msgid "Next"
+msgstr ""
+
+#. Text in function
+#: verbo/comments.php:1
+msgid "Nickname ( required )"
+msgstr ""
+
+#. Text in echo
+#: verbo/404.php:9
+#: verbo/cfg/templates/loop.php:39
+msgid "Not found results"
+msgstr ""
+
+#. Text in function
+#: verbo/fw/admin/ahtml.class.php:1
+msgid "Not fount items"
+msgstr ""
+
+#. Text in function
+#: verbo/cfg/admin/settings/general.php:1
+msgid "Other Settings"
+msgstr ""
+
+#. Text in function
+#: verbo/fw/mythemes.class.php:1
+msgid "Page %s"
+msgstr ""
+
+#. Text in function
+#: verbo/cfg/admin/settings/general.php:1
+msgid "Page Layout"
+msgstr ""
+
+#. Text in function
+#: verbo/cfg/static.php:1
+#: verbo/cfg/admin/resources/boxes.php:1
+#: verbo/cfg/admin/settings/general.php:1
+msgid "Page Sidebar"
+msgstr ""
+
+#. Text in function
+#: verbo/front-page.php:107
+msgid "Pages"
+msgstr ""
+
+#. Text in function
+#: verbo/cfg/admin/settings/general.php:1
+msgid "Pages layout"
+msgstr ""
+
+#. Text in function
+#: verbo/cfg/admin/settings/general.php:1
+msgid "Pages sidebar"
+msgstr ""
+
+#. Text in function
+#: verbo/cfg/admin/settings/general.php:1
+msgid "Picasa URL profile"
+msgstr ""
+
+#. Text in function
+#: verbo/cfg/admin/settings/general.php:1
+msgid "Pinterest URL profile"
+msgstr ""
+
+#. Text in function
+#: verbo/cfg/admin/settings/general.php:1
+msgid "Please select 'ico' type media file. Make sure you allow uploading 'ico' type in General Settings -> Upload file types."
+msgstr ""
+
+#. Text in function
+#: verbo/fw/plg/my_widgets/my_wdg_post_categories.php:1
+msgid "Post Categories"
+msgstr ""
+
+#. Text in function
+#: verbo/cfg/templates/bottom-meta.php:8
+#: verbo/fw/plg/my_widgets/my_wdg_post_tags.php:1
+msgid "Post Tags"
+msgstr ""
+
+#. Text in function
+#: verbo/cfg/admin/default.php:1
+msgid "Preview"
+msgstr ""
+
+#. Text in function
+#: verbo/cfg/admin/default.php:1
+msgid "Preview demo for WordPress theme Verbo"
+msgstr ""
+
+#. Text in function
+#: verbo/cfg/templates/pagination.php:1
+msgid "Previous"
+msgstr ""
+
+#. Text in function
+#: verbo/cfg/admin/settings/general.php:1
+msgid "Rdio URL profile"
+msgstr ""
+
+#. Text in function
+#: verbo/cfg/templates/view/list-view.php:66
+msgid "Read More"
+msgstr ""
+
+#. Text in echo
+#: verbo/cfg/templates/view/list-view.php:29
+msgid "Read more about .."
+msgstr ""
+
+#. Text in function
+#: verbo/fw/admin/ahtml.class.php:1
+msgid "Remove data from this field"
+msgstr ""
+
+#. Text in function
+#: verbo/cfg/admin/settings/general.php:1
+msgid "Renren URL profile"
+msgstr ""
+
+#. Text in function
+#: verbo/fw/mythemes.class.php:1
+msgid "Reply"
+msgstr ""
+
+#. Text in echo
+#: verbo/category.php:11
+msgid "Results for category"
+msgstr ""
+
+#. Text in echo
+#: verbo/tag.php:11
+msgid "Results for tag"
+msgstr ""
+
+#. Text in echo
+#: verbo/search.php:15
+msgid "Search results"
+msgstr ""
+
+#. Text in echo
+#: verbo/search.php:11
+msgid "Search results for"
+msgstr ""
+
+#. Text in function
+#: verbo/cfg/admin/settings/general.php:1
+msgid "Second Button"
+msgstr ""
+
+#. Text in function
+#: verbo/cfg/admin/settings/general.php:1
+msgid "Second Color"
+msgstr ""
+
+#. Text in function
+#: verbo/cfg/admin/settings/general.php:1
+msgid "Second button URL"
+msgstr ""
+
+#. Text in function
+#: verbo/cfg/admin/settings/general.php:1
+msgid "Second button description"
+msgstr ""
+
+#. Text in function
+#: verbo/cfg/admin/settings/general.php:1
+msgid "Second button label"
+msgstr ""
+
+#. Text in function
+#: verbo/cfg/admin/resources/boxes.php:1
+msgid "Select Layout"
+msgstr ""
+
+#. Text in function
+#: verbo/cfg/admin/resources/boxes.php:1
+msgid "Select sidebar"
+msgstr ""
+
+#. Text in function
+#: verbo/cfg/admin/settings/general.php:1
+msgid "Show bottom meta in Single ( categories and tags )"
+msgstr ""
+
+#. Text in function
+#: verbo/cfg/admin/settings/general.php:1
+msgid "Show default content ( sidebars )"
+msgstr ""
+
+#. Text in function
+#: verbo/cfg/admin/settings/general.php:1
+msgid "Show description in header"
+msgstr ""
+
+#. Text in function
+#: verbo/cfg/admin/settings/general.php:1
+msgid "Show first button in header"
+msgstr ""
+
+#. Text in function
+#: verbo/cfg/admin/settings/general.php:1
+msgid "Show header"
+msgstr ""
+
+#. Text in function
+#: verbo/cfg/admin/settings/general.php:1
+msgid "Show header for all pages"
+msgstr ""
+
+#. Text in function
+#: verbo/cfg/admin/settings/general.php:1
+msgid "Show header on All pages"
+msgstr ""
+
+#. Text in function
+#: verbo/cfg/admin/settings/general.php:1
+msgid "Show header on Blog Page"
+msgstr ""
+
+#. Text in function
+#: verbo/cfg/admin/settings/general.php:1
+msgid "Show header on Single Post"
+msgstr ""
+
+#. Text in function
+#: verbo/cfg/admin/settings/general.php:1
+msgid "Show second button in header"
+msgstr ""
+
+#. Text in function
+#: verbo/cfg/admin/settings/general.php:1
+msgid "Show title in header"
+msgstr ""
+
+#. Text in function
+#: verbo/cfg/admin/settings/general.php:1
+msgid "Show top meta in Single ( Author / date / comments  )"
+msgstr ""
+
+#. Text in function
+#: verbo/cfg/admin/settings/general.php:1
+msgid "Single Posts Layout"
+msgstr ""
+
+#. Text in function
+#: verbo/cfg/static.php:1
+#: verbo/cfg/admin/resources/boxes.php:1
+#: verbo/cfg/admin/settings/general.php:1
+msgid "Single Sidebar"
+msgstr ""
+
+#. Text in function
+#: verbo/cfg/static.php:1
+msgid "Single Sidebar - is used by default for page."
+msgstr ""
+
+#. Text in function
+#: verbo/cfg/static.php:1
+msgid "Single Sidebar - is used by default for single post."
+msgstr ""
+
+#. Text in function
+#: verbo/cfg/admin/settings/general.php:1
+msgid "Single posts layout"
+msgstr ""
+
+#. Text in function
+#: verbo/cfg/admin/settings/general.php:1
+msgid "Single posts sidebar"
+msgstr ""
+
+#. Text in function
+#: verbo/cfg/admin/settings/general.php:1
+msgid "Skype URL profile"
+msgstr ""
+
+#. Text in function
+#: verbo/cfg/admin/settings/general.php:1
+msgid "Smashing URL profile"
+msgstr ""
+
+#. Text in function
+#: verbo/cfg/admin/settings/general.php:1
+msgid "Social"
+msgstr ""
+
+#. Text in function
+#: verbo/cfg/admin/settings/general.php:1
+msgid "Soundcloud URL profile"
+msgstr ""
+
+#. Text in function
+#: verbo/cfg/admin/settings/general.php:1
+msgid "Stumbl URL profile"
+msgstr ""
+
+#. Text in function
+#: verbo/fw/sett.class.php:1
+msgid "Successful disabled option!"
+msgstr ""
+
+#. Text in function
+#: verbo/fw/sett.class.php:1
+msgid "Successful enabled option!"
+msgstr ""
+
+#. Text in function
+#: verbo/fw/mythemes_layout.class.php:1
+msgid "Tags"
+msgstr ""
+
+#. Text in function
+#: verbo/cfg/admin/pages.php:1
+msgid "Themes Options"
+msgstr ""
+
+#. Text in function
+#: verbo/cfg/admin/settings/general.php:1
+msgid "These options use default WordPress option \"Header\". Explore option "
+msgstr ""
+
+#. Text in function
+#: verbo/cfg/admin/settings/general.php:1
+msgid "This is link description used for attribute title"
+msgstr ""
+
+#. Text in function
+#: verbo/fw/plg/my_widgets/my_wdg_newsletter.php:45
+#: verbo/fw/plg/my_widgets/my_wdg_meta.php:1
+#: verbo/fw/plg/my_widgets/my_wdg_website_description.php:1
+#: verbo/fw/plg/my_widgets/my_wdg_post_categories.php:1
+#: verbo/cfg/admin/settings/general.php:1
+#: verbo/fw/plg/my_widgets/my_wdg_post_tags.php:1
+msgid "Title"
+msgstr ""
+
+#. Text in function
+#: verbo/fw/mythemes_layout.class.php:1
+msgid "Topic"
+msgstr ""
+
+#. Text in function
+#: verbo/cfg/admin/settings/general.php:1
+msgid "Tumblr URL profile"
+msgstr ""
+
+#. Text in function
+#: verbo/cfg/admin/settings/general.php:1
+msgid "Twitter URL profile"
+msgstr ""
+
+#. Text in function
+#: verbo/fw/admin/ahtml.class.php:1
+#: verbo/fw/admin/main.php:1
+msgid "Update Settings"
+msgstr ""
+
+#. Text in function
+#: verbo/cfg/admin/settings/general.php:1
+msgid "Upload your custom favicon"
+msgstr ""
+
+#. Text in function
+#: verbo/cfg/admin/settings/general.php:1
+msgid "Upload your custom logo"
+msgstr ""
+
+#. Text in function
+#: verbo/cfg/admin/settings/general.php:1
+msgid "Use RSS"
+msgstr ""
+
+#. Text in function
+#: verbo/cfg/admin/resources/boxes.php:1
+msgid "Use custom layout"
+msgstr ""
+
+#. Text in function
+#: verbo/fw/plg/my_widgets/my_wdg_meta.php:1
+#: verbo/fw/plg/my_widgets/my_wdg_post_categories.php:1
+#: verbo/fw/plg/my_widgets/my_wdg_post_tags.php:1
+msgid "Use only for single template"
+msgstr ""
+
+#. Text in function
+#: verbo/cfg/admin/default.php:1
+msgid "Verbo by myThem.es"
+msgstr ""
+
+#. Text in function
+#: verbo/cfg/admin/default.php:1
+msgid "Verbo is an free, elegant, clean and responsive WordPress Theme."
+msgstr ""
+
+#. Text in function
+#: verbo/fw/admin/main.php:1
+msgid "Version"
+msgstr ""
+
+#. Text in function
+#: verbo/fw/mythemes_layout.class.php:1
+msgid "View all posts filed under"
+msgstr ""
+
+#. Text in function
+#: verbo/cfg/admin/settings/general.php:1
+msgid "Vimeo URL profile"
+msgstr ""
+
+#. Text in function
+#: verbo/cfg/admin/settings/general.php:1
+msgid "Vkontakte URL profile"
+msgstr ""
+
+#. Text in echo
+#: verbo/404.php:42
+#: verbo/cfg/templates/loop.php:39
+msgid "We apologize but this page, post or resource does not exist or can not be found. Perhaps it is necessary to change the call method to this page, post or resource."
+msgstr ""
+
+#. Text in function
+#: verbo/comments.php:1
+msgid "Website"
+msgstr ""
+
+#. Text in function
+#: verbo/fw/plg/my_widgets/my_wdg_website_description.php:1
+msgid "Website Description"
+msgstr ""
+
+#. Text in function
+#: verbo/fw/plg/my_widgets/my_wdg_website_description.php:1
+msgid "Website description"
+msgstr ""
+
+#. Text in echo
+#: verbo/cfg/templates/meta.php:30
+msgid "Writed by"
+msgstr ""
+
+#. Text in function
+#: verbo/fw/mythemes_layout.class.php:1
+#: verbo/fw/plg/my_widgets/my_wdg_meta.php:1
+msgid "Writed by "
+msgstr ""
+
+#. Text in function
+#: verbo/archive.php:9
+msgid "Yearly archives"
+msgstr ""
+
+#. Text in function
+#: verbo/comments.php:1
+msgid "You may use these HTML tags and attributes"
+msgstr ""
+
+#. Text in echo
+#: verbo/fw/mythemes.class.php:1
+msgid "Your comment is awaiting moderation."
+msgstr ""
+
+#. Text in function
+#: verbo/comments.php:1
+msgid "Your email address will not be published."
+msgstr ""
+
+#. Text in echo
+#: verbo/category.php:14
+#: verbo/page.php:17
+#: verbo/search.php:14
+#: verbo/404.php:12
+#: verbo/tag.php:14
+#: verbo/index.php:12
+#: verbo/author.php:14
+#: verbo/archive.php:52
+msgid "go home"
+msgstr ""
+
+#. Text in function
+#: verbo/cfg/admin/settings/general.php:1
+msgid "header"
+msgstr ""
+
+#. Text in function
+#: verbo/cfg/admin/settings/general.php:1
+msgid "if option is disabled then the header will be displayed only on front Page and Blog Page"
+msgstr ""
+
+#. Text in function
+#: verbo/cfg/admin/resources/boxes.php:1
+msgid "myThem.es Settings"
+msgstr ""
+
+#. Text in function
+#: verbo/fw/admin/main.php:1
+msgid "options has been updated successfully"
+msgstr ""
+
+#. Text in function
+#: verbo/cfg/admin/settings/general.php:1
+msgid "overwrite styles for some elements using custom css"
+msgstr ""
+
+#. Text in echo
+#: verbo/author.php:26
+msgid "post"
+msgstr ""
+
+#. Text in echo
+#: verbo/author.php:26
+msgid "posts"
+msgstr ""
+
+#. Text in echo
+#: verbo/fw/plg/my_widgets/my_wdg_newsletter.php:36
+#: verbo/fw/mythemes_layout.class.php:1
+msgid "subscribe with FeedBurner"
+msgstr ""
+
+#. Text in echo
+#: verbo/searchform.php:4
+msgid "type here..."
+msgstr ""
+
+#. Text in function
+#: verbo/cfg/admin/settings/general.php:1
+msgid "use one number between 1 and 100"
+msgstr ""
+
+#. Text in function
+#: verbo/fw/plg/my_widgets/my_wdg_meta.php:1
+#: verbo/cfg/templates/view/list-view.php:66
+msgid "view"
+msgstr ""
+
+#. Text in function
+#: verbo/fw/plg/my_widgets/my_wdg_meta.php:1
+#: verbo/cfg/templates/view/list-view.php:66
+msgid "views"
+msgstr ""

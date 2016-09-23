@@ -1,0 +1,7 @@
+version 0.0.4
+-----------------------------------------------------------------------------
+- fixed: bootstrap license                          /readme.txt
+- fixed: global $content_width + hook               /functions.php
+- drop: javascript code from footer                 /footer.php
+
+version 0.0.10

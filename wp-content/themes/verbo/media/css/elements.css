@@ -1,0 +1,42 @@
+/* FEATURES */
+.mythemes-features{
+    padding-bottom: 50px;
+}
+.mythemes-features .feature-item{
+    margin-bottom: 40px;
+}
+.mythemes-features h3{
+    color: #555555;
+    font-size: 17px;
+    line-height: 23px;
+
+    padding-top: 2px;
+
+    margin-bottom: 10px;
+    margin-top: 0px;
+
+    text-transform: uppercase;
+}
+.mythemes-features p{
+    color: #999999;
+    font-size: 13px;
+    line-height: 18px;
+    margin: 0px;
+}
+
+/* DELIMITER */
+.mythemes-delimiter{
+    padding-top: 18px;
+    padding-bottom: 18px;
+}
+.mythemes-delimiter div.delimiter-item{
+    height: 1px;
+    background: #eeeeee;
+}
+.mythemes-delimiter.no-padding{
+    padding: 0px;
+}
+
+.mythemes-delimiter.after-header-widgets{
+    margin-bottom: 60px;
+}
